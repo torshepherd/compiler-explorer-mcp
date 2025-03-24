@@ -1,6 +1,6 @@
 [project]
 name = "compiler-explorer-mcp"
-version = "0.1.0"
+version = "0.1.2"
 description = "MCP server allowing LLMs to interact remotely with compilers"
 readme = "README.md"
 requires-python = ">=3.12"
@@ -34,6 +34,12 @@ dev = [
     "pytest>=8.3.5",
     "ruff>=0.11.2",
 ]
+
+[project.urls]
+Homepage = "https://github.com/anthropic/compiler-explorer-mcp"
+Repository = "https://github.com/anthropic/compiler-explorer-mcp"
+Documentation = "https://github.com/anthropic/compiler-explorer-mcp#readme"
+"Bug Tracker" = "https://github.com/anthropic/compiler-explorer-mcp/issues"
 
 [build-system]
 requires = ["hatchling"]
