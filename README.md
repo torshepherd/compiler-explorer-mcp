@@ -41,3 +41,17 @@ Here are some interesting questions you can ask your LLM using this MCP:
 - "Show me how different string concatenation methods compare in terms of generated instructions"
 - "Compare the efficiency of std::map vs std::unordered_map operations in assembly"
 - "How do different smart pointer implementations affect inlining and code size?"
+
+## Usage
+
+1. Install the required dependencies:
+```bash
+uv add fastapi httpx mcp[cli] pydantic python-dotenv uvicorn websockets
+```
+
+2. Run the MCP server:
+```bash
+fastmcp install server.py
+```
+
+3. Connect your LLM client to the MCP server and start exploring compiler internals!
