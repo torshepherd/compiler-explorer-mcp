@@ -1,0 +1,4139 @@
+[
+    {
+        "id": "gcc6502_1110",
+        "name": "6502-c++ 11.1.0",
+        "lang": "c++",
+        "compilerType": "avrgcc6502",
+        "semver": "11.1.0",
+        "instructionSet": "6502"
+    },
+    {
+        "id": "arm1020",
+        "name": "ARM GCC 10.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.2.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm1030",
+        "name": "ARM GCC 10.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.3.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm1040",
+        "name": "ARM GCC 10.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.4.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg1050",
+        "name": "ARM GCC 10.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.5.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm1100",
+        "name": "ARM GCC 11.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.1.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm1120",
+        "name": "ARM GCC 11.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.2.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm1130",
+        "name": "ARM GCC 11.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.3.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg1140",
+        "name": "ARM GCC 11.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.4.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm1210",
+        "name": "ARM GCC 12.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.1.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg1220",
+        "name": "ARM GCC 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg1230",
+        "name": "ARM GCC 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg1240",
+        "name": "ARM GCC 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg1310",
+        "name": "ARM GCC 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg1320",
+        "name": "ARM GCC 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armug1320",
+        "name": "ARM GCC 13.2.0 (unknown-eabi)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg1330",
+        "name": "ARM GCC 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armug1330",
+        "name": "ARM GCC 13.3.0 (unknown-eabi)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg1410",
+        "name": "ARM GCC 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armug1410",
+        "name": "ARM GCC 14.1.0 (unknown-eabi)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg1420",
+        "name": "ARM GCC 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armug1420",
+        "name": "ARM GCC 14.2.0 (unknown-eabi)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg454",
+        "name": "ARM GCC 4.5.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.5.4",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg464",
+        "name": "ARM GCC 4.6.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.6.4",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armhfg54",
+        "name": "ARM GCC 5.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.4",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg630",
+        "name": "ARM GCC 6.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "6.3.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg640",
+        "name": "ARM GCC 6.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "6.4.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg730",
+        "name": "ARM GCC 7.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "7.3.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg750",
+        "name": "ARM GCC 7.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "7.5.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg820",
+        "name": "ARM GCC 8.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "8.2.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armg850",
+        "name": "ARM GCC 8.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "8.5.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm930",
+        "name": "ARM GCC 9.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.3.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm940",
+        "name": "ARM GCC 9.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.4.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm950",
+        "name": "ARM GCC 9.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.5.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armgtrunk",
+        "name": "ARM GCC trunk",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "trunk",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm1021",
+        "name": "ARM gcc 10.2.1 (none)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.2.1",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm1031_07",
+        "name": "ARM gcc 10.3.1 (2021.07 none)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.3.1",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm1031_10",
+        "name": "ARM gcc 10.3.1 (2021.10 none)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.3.1",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm1121",
+        "name": "ARM gcc 11.2.1 (none)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.2.1",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm541",
+        "name": "ARM gcc 5.4.1 (none)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.4.1",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm710",
+        "name": "ARM gcc 7.2.1 (none)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "7.2.1",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "armce820",
+        "name": "ARM gcc 8.2 (WinCE)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "8.2.0",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm831",
+        "name": "ARM gcc 8.3.1 (none)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "8.3.1",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "arm921",
+        "name": "ARM gcc 9.2.1 (none)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.2.1",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "frc2019",
+        "name": "FRC 2019",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "6.3",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "frc2020",
+        "name": "FRC 2020",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "7.3",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "frc2023",
+        "name": "FRC 2023",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.1",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "raspbian10",
+        "name": "Raspbian Buster",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "8.3",
+        "instructionSet": "arm32"
+    },
+    {
+        "id": "raspbian9",
+        "name": "Raspbian Stretch",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "6.3",
+        "instructionSet": "arm32"
+    },
+    {
+        "name_prefix": "ARM msvc",
+        "lang": "c++",
+        "semvers": [
+            "19.00.24210",
+            "19.10.25017",
+            "19.14.26423"
+        ],
+        "instructionSet": "arm32"
+    },
+    {
+        "name_prefix": "ARM64",
+        "lang": "c++",
+        "semvers": [
+            "10.1.2",
+            "10.2",
+            "10.3",
+            "10.4",
+            "10.5.0",
+            "11.1",
+            "11.2",
+            "11.3",
+            "11.4.0",
+            "12.1",
+            "12.2.0",
+            "12.3.0",
+            "12.4.0",
+            "13.1.0",
+            "13.2.0",
+            "13.3.0",
+            "14.1.0",
+            "14.2.0",
+            "4.9.4",
+            "5.4",
+            "5.5.0",
+            "6.3",
+            "6.4",
+            "7.3",
+            "7.5",
+            "8.2",
+            "8.5",
+            "9.3",
+            "9.4",
+            "9.5",
+            "trunk"
+        ],
+        "instructionSet": "aarch64"
+    },
+    {
+        "id": "cl_new_arm64",
+        "name": "ARM64 msvc v19.14 (WINE)",
+        "lang": "c++",
+        "compilerType": "wine-vc",
+        "semver": "19.14.26423",
+        "instructionSet": "aarch64"
+    },
+    {
+        "id": "avrg1030",
+        "name": "AVR gcc 10.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.3.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg1100",
+        "name": "AVR gcc 11.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.1.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg1210",
+        "name": "AVR gcc 12.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.1.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg1220",
+        "name": "AVR gcc 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg1230",
+        "name": "AVR gcc 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg1240",
+        "name": "AVR gcc 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg1310",
+        "name": "AVR gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg1320",
+        "name": "AVR gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg1330",
+        "name": "AVR gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg1410",
+        "name": "AVR gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg1420",
+        "name": "AVR gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg454",
+        "name": "AVR gcc 4.5.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.5.4",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg464",
+        "name": "AVR gcc 4.6.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.6.4",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg540",
+        "name": "AVR gcc 5.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.4.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg920",
+        "name": "AVR gcc 9.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.2.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "avrg930",
+        "name": "AVR gcc 9.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.3.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "arduinomega189",
+        "name": "Arduino Mega (1.8.9)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.4.0",
+        "instructionSet": "avr"
+    },
+    {
+        "id": "arduinouno189",
+        "name": "Arduino Uno (1.8.9)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.4.0",
+        "instructionSet": "avr"
+    },
+    {
+        "name_prefix": "BPF",
+        "lang": "c++",
+        "semvers": [
+            "(trunk)",
+            "13.0.0",
+            "14.0.0",
+            "15.0.0",
+            "16.0.0",
+            "17.0.1",
+            "18.1.0",
+            "19.1.0",
+            "20.1.0",
+            "13.1.0",
+            "13.2.0",
+            "13.3.0",
+            "14.1.0",
+            "trunk"
+        ],
+        "instructionSet": "ebpf"
+    },
+    {
+        "name_prefix": "EDG",
+        "lang": "c++",
+        "semvers": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "hppag1420",
+        "name": "HPPA gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "tricoreg1130",
+        "name": "Tricore gcc 11.3.0 (EEESlab)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.3.0 (EEESlab)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "clad_trunk",
+        "name": "clad trunk (clang 19.1.0)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "clang1810_clad180",
+        "name": "clad v1.8 (clang 18.1.0)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "clang1910_clad190",
+        "name": "clad v1.9 (clang 19.1.0)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vast-trunk",
+        "name": "vast (trunk)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(trunk)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "djggp494",
+        "name": "x86 djgpp 4.9.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.9.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "djggp550",
+        "name": "x86 djgpp 5.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.5.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "djggp640",
+        "name": "x86 djgpp 6.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "6.4.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "djggp720",
+        "name": "x86 djgpp 7.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "7.2.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx22_11",
+        "name": "x86 nvc++ 22.11",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "22.11",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx22_7",
+        "name": "x86 nvc++ 22.7",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "22.7",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx22_9",
+        "name": "x86 nvc++ 22.9",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "22.9",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx23_1",
+        "name": "x86 nvc++ 23.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "23.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx23_11",
+        "name": "x86 nvc++ 23.11",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "23.11",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx23_3",
+        "name": "x86 nvc++ 23.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "23.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx23_5",
+        "name": "x86 nvc++ 23.5",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "23.5",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx23_7",
+        "name": "x86 nvc++ 23.7",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "23.7",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx23_9",
+        "name": "x86 nvc++ 23.9",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "23.9",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx24_1",
+        "name": "x86 nvc++ 24.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "24.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx24_11",
+        "name": "x86 nvc++ 24.11",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "24.11",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx24_3",
+        "name": "x86 nvc++ 24.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "24.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx24_5",
+        "name": "x86 nvc++ 24.5",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "24.5",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx24_7",
+        "name": "x86 nvc++ 24.7",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "24.7",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx24_9",
+        "name": "x86 nvc++ 24.9",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "24.9",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "nvcxx_x86_cxx25_1",
+        "name": "x86 nvc++ 25.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "25.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "zapcc190308",
+        "name": "x86-64 Zapcc 190308",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "gcontract-labels-trunk",
+        "name": "x86-64 gcc (contract labels)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(contract labels)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "gcontracts-nonattr-trunk",
+        "name": "x86-64 gcc (contracts natural syntax)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(contracts natural syntax)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "gcontracts-trunk",
+        "name": "x86-64 gcc (contracts)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(contracts)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "gcxx-coroutines-trunk",
+        "name": "x86-64 gcc (coroutines)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(coroutines)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "gcxx-modules-trunk",
+        "name": "x86-64 gcc (modules)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(modules)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "gcc-static-analysis-trunk",
+        "name": "x86-64 gcc (static analysis)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(static analysis)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "gcc-embed-trunk",
+        "name": "x86-64 gcc (std::embed)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(std::embed)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "gsnapshot",
+        "name": "x86-64 gcc (trunk)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(trunk)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g101",
+        "name": "x86-64 gcc 10.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g102",
+        "name": "x86-64 gcc 10.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g103",
+        "name": "x86-64 gcc 10.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g103assert",
+        "name": "x86-64 gcc 10.3 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.3 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g104",
+        "name": "x86-64 gcc 10.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g104assert",
+        "name": "x86-64 gcc 10.4 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.4 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g105",
+        "name": "x86-64 gcc 10.5",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.5",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g105assert",
+        "name": "x86-64 gcc 10.5 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "10.5 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g111",
+        "name": "x86-64 gcc 11.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g111assert",
+        "name": "x86-64 gcc 11.1 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.1 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g112",
+        "name": "x86-64 gcc 11.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g112assert",
+        "name": "x86-64 gcc 11.2 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.2 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g113",
+        "name": "x86-64 gcc 11.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g113assert",
+        "name": "x86-64 gcc 11.3 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.3 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g114",
+        "name": "x86-64 gcc 11.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g114assert",
+        "name": "x86-64 gcc 11.4 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.4 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g121",
+        "name": "x86-64 gcc 12.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g121assert",
+        "name": "x86-64 gcc 12.1 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.1 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g122",
+        "name": "x86-64 gcc 12.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g122assert",
+        "name": "x86-64 gcc 12.2 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g123",
+        "name": "x86-64 gcc 12.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g123assert",
+        "name": "x86-64 gcc 12.3 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g124",
+        "name": "x86-64 gcc 12.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g124assert",
+        "name": "x86-64 gcc 12.4 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g131",
+        "name": "x86-64 gcc 13.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g131assert",
+        "name": "x86-64 gcc 13.1 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g132",
+        "name": "x86-64 gcc 13.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g132assert",
+        "name": "x86-64 gcc 13.2 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g133",
+        "name": "x86-64 gcc 13.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g133assert",
+        "name": "x86-64 gcc 13.3 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g141",
+        "name": "x86-64 gcc 14.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g141assert",
+        "name": "x86-64 gcc 14.1 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g142",
+        "name": "x86-64 gcc 14.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g142assert",
+        "name": "x86-64 gcc 14.2 (assertions)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2 (assertions)",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g346",
+        "name": "x86-64 gcc 3.4.6",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "3.4.6",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g404",
+        "name": "x86-64 gcc 4.0.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.0.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g412",
+        "name": "x86-64 gcc 4.1.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.1.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g447",
+        "name": "x86-64 gcc 4.4.7",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.4.7",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g453",
+        "name": "x86-64 gcc 4.5.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.5.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g464",
+        "name": "x86-64 gcc 4.6.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.6.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g471",
+        "name": "x86-64 gcc 4.7.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.7.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g472",
+        "name": "x86-64 gcc 4.7.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.7.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g473",
+        "name": "x86-64 gcc 4.7.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.7.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g474",
+        "name": "x86-64 gcc 4.7.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.7.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g481",
+        "name": "x86-64 gcc 4.8.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.8.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g482",
+        "name": "x86-64 gcc 4.8.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.8.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g483",
+        "name": "x86-64 gcc 4.8.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.8.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g484",
+        "name": "x86-64 gcc 4.8.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.8.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g485",
+        "name": "x86-64 gcc 4.8.5",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.8.5",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g490",
+        "name": "x86-64 gcc 4.9.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.9.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g491",
+        "name": "x86-64 gcc 4.9.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.9.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g492",
+        "name": "x86-64 gcc 4.9.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.9.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g493",
+        "name": "x86-64 gcc 4.9.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.9.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g494",
+        "name": "x86-64 gcc 4.9.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.9.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g510",
+        "name": "x86-64 gcc 5.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g520",
+        "name": "x86-64 gcc 5.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g530",
+        "name": "x86-64 gcc 5.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g540",
+        "name": "x86-64 gcc 5.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g550",
+        "name": "x86-64 gcc 5.5",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.5",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g6",
+        "name": "x86-64 gcc 6.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "6.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g62",
+        "name": "x86-64 gcc 6.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "6.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g63",
+        "name": "x86-64 gcc 6.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "6.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g64",
+        "name": "x86-64 gcc 6.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "6.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g65",
+        "name": "x86-64 gcc 6.5",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "6.5",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g71",
+        "name": "x86-64 gcc 7.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "7.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g72",
+        "name": "x86-64 gcc 7.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "7.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g73",
+        "name": "x86-64 gcc 7.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "7.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g74",
+        "name": "x86-64 gcc 7.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "7.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g75",
+        "name": "x86-64 gcc 7.5",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "7.5",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g81",
+        "name": "x86-64 gcc 8.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "8.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g82",
+        "name": "x86-64 gcc 8.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "8.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g83",
+        "name": "x86-64 gcc 8.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "8.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g84",
+        "name": "x86-64 gcc 8.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "8.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g85",
+        "name": "x86-64 gcc 8.5",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "8.5",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g91",
+        "name": "x86-64 gcc 9.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g92",
+        "name": "x86-64 gcc 9.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g93",
+        "name": "x86-64 gcc 9.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g94",
+        "name": "x86-64 gcc 9.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "g95",
+        "name": "x86-64 gcc 9.5",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.5",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc1301",
+        "name": "x86-64 icc 13.0.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.0.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc16",
+        "name": "x86-64 icc 16.0.3",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "16.0.3",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc17",
+        "name": "x86-64 icc 17.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "17.0.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc18",
+        "name": "x86-64 icc 18.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "18.0.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc19",
+        "name": "x86-64 icc 19.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "19.0.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc191",
+        "name": "x86-64 icc 19.0.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "19.0.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc202112",
+        "name": "x86-64 icc 2021.1.2",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "2021.1.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc2021100",
+        "name": "x86-64 icc 2021.10.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "2021.10.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc202120",
+        "name": "x86-64 icc 2021.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "2021.2.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc202130",
+        "name": "x86-64 icc 2021.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "2021.3.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc202140",
+        "name": "x86-64 icc 2021.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "2021.4.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc202150",
+        "name": "x86-64 icc 2021.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "2021.5.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc202160",
+        "name": "x86-64 icc 2021.6.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "2021.6.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc202170",
+        "name": "x86-64 icc 2021.7.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "2021.7.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc202171",
+        "name": "x86-64 icc 2021.7.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "2021.7.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc202180",
+        "name": "x86-64 icc 2021.8.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "2021.8.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "icc202190",
+        "name": "x86-64 icc 2021.9.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "2021.9.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "k1cg741",
+        "name": "K1C gcc 7.4 (obsolete)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "7.4.1",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "k1cg750",
+        "name": "K1C gcc 7.5 (obsolete)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "7.5.0",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg750_v410",
+        "name": "KVX ACB 4.1.0 (GCC 7.5.0)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.1.0",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg750",
+        "name": "KVX ACB 4.1.0-cd1 (GCC 7.5.0)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.1.0-cd1",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg1031_v4100",
+        "name": "KVX ACB 4.10.0 (GCC 10.3.1)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.10.0",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg1031_v4111",
+        "name": "KVX ACB 4.11.1 (GCC 10.3.1)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.11.1",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg1130_v4120",
+        "name": "KVX ACB 4.12.0 (GCC 11.3.0)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.12.0",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg750_v420",
+        "name": "KVX ACB 4.2.0 (GCC 7.5.0)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.2.0",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg750_v430",
+        "name": "KVX ACB 4.3.0 (GCC 7.5.0)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.3.0",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg750_v440",
+        "name": "KVX ACB 4.4.0 (GCC 7.5.0)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.4.0",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg941_v460",
+        "name": "KVX ACB 4.6.0 (GCC 9.4.1)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.6.0",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg941_v480",
+        "name": "KVX ACB 4.8.0 (GCC 9.4.1)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.8.0",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg941_v490",
+        "name": "KVX ACB 4.9.0 (GCC 9.4.1)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.9.0",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg1221_v500",
+        "name": "KVX ACB 5.0.0 (GCC 12.2.1)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.0.0",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "kvxg1321_v520",
+        "name": "KVX ACB 5.2.0 (GCC 13.2.1)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.2.0",
+        "instructionSet": "kvx"
+    },
+    {
+        "id": "loongarch64-clangtrunk",
+        "name": "LoongArch64 clang (trunk)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(trunk)",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "loongarch64-clang1701",
+        "name": "LoongArch64 clang 17.0.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "17.0.1",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "loongarch64-clang1810",
+        "name": "LoongArch64 clang 18.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "18.1.0",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "loongarch64-clang1910",
+        "name": "LoongArch64 clang 19.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "19.1.0",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "loongarch64-clang2010",
+        "name": "LoongArch64 clang 20.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "20.1.0",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "loongarch64g1220",
+        "name": "loongarch64 gcc 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "loongarch64g1230",
+        "name": "loongarch64 gcc 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "loongarch64g1240",
+        "name": "loongarch64 gcc 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "loongarch64g1310",
+        "name": "loongarch64 gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "loongarch64g1320",
+        "name": "loongarch64 gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "loongarch64g1330",
+        "name": "loongarch64 gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "loongarch64g1410",
+        "name": "loongarch64 gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "loongarch64g1420",
+        "name": "loongarch64 gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "loongarch"
+    },
+    {
+        "id": "m68kg1310",
+        "name": "M68K gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "m68k"
+    },
+    {
+        "id": "m68kg1320",
+        "name": "M68K gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "m68k"
+    },
+    {
+        "id": "m68kg1330",
+        "name": "M68K gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "m68k"
+    },
+    {
+        "id": "m68kg1410",
+        "name": "M68K gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "m68k"
+    },
+    {
+        "id": "m68kg1420",
+        "name": "M68K gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "m68k"
+    },
+    {
+        "id": "m68kclangtrunk",
+        "name": "M68k clang (trunk)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(trunk)",
+        "instructionSet": "m68k"
+    },
+    {
+        "id": "mrisc32-gcc-trunk",
+        "name": "MRISC32 gcc (trunk)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(trunk)",
+        "instructionSet": "mrisc32"
+    },
+    {
+        "name_prefix": "MSP430 gcc",
+        "lang": "c++",
+        "semvers": [
+            "4.5.3",
+            "5.3.0",
+            "6.2.1"
+        ],
+        "instructionSet": "msp430"
+    },
+    {
+        "name_prefix": "MinGW clang",
+        "lang": "c++",
+        "semvers": [
+            "14.0.3",
+            "14.0.6",
+            "15.0.7",
+            "16.0.0",
+            "16.0.2"
+        ],
+        "instructionSet": "amd64"
+    },
+    {
+        "name_prefix": "MinGW gcc",
+        "lang": "c++",
+        "semvers": [
+            "11.3.0",
+            "12.1.0",
+            "12.2.0",
+            "13.1.0"
+        ],
+        "instructionSet": "amd64"
+    },
+    {
+        "name_prefix": "RISC-V",
+        "lang": "c++",
+        "semvers": [
+            "(trunk)",
+            "10.2.0",
+            "10.3.0",
+            "11.2.0",
+            "11.3.0",
+            "11.4.0",
+            "12.1.0",
+            "12.2.0",
+            "12.3.0",
+            "12.4.0",
+            "13.1.0",
+            "13.2.0",
+            "13.3.0",
+            "14.1.0",
+            "14.2.0",
+            "8.2.0",
+            "8.5.0",
+            "9.4.0",
+            "(trunk)",
+            "10.0.0",
+            "10.0.1",
+            "11.0.0",
+            "11.0.1",
+            "12.0.0",
+            "12.0.1",
+            "13.0.0",
+            "13.0.1",
+            "14.0.0",
+            "15.0.0",
+            "16.0.0",
+            "17.0.1",
+            "18.1.0",
+            "19.1.0",
+            "20.1.0",
+            "9.0.0",
+            "9.0.1"
+        ],
+        "instructionSet": "riscv32"
+    },
+    {
+        "name_prefix": "RISC-V",
+        "lang": "c++",
+        "semvers": [
+            "(trunk)",
+            "10.2.0",
+            "10.3.0",
+            "11.2.0",
+            "11.3.0",
+            "11.4.0",
+            "12.1.0",
+            "12.2.0",
+            "12.3.0",
+            "12.4.0",
+            "13.1.0",
+            "13.2.0",
+            "13.3.0",
+            "14.1.0",
+            "14.2.0",
+            "8.2.0",
+            "8.5.0",
+            "9.4.0",
+            "(trunk)",
+            "10.0.0",
+            "10.0.1",
+            "11.0.0",
+            "11.0.1",
+            "12.0.0",
+            "12.0.1",
+            "13.0.0",
+            "13.0.1",
+            "14.0.0",
+            "15.0.0",
+            "16.0.0",
+            "17.0.1",
+            "18.1.0",
+            "19.1.0",
+            "20.1.0",
+            "9.0.0",
+            "9.0.1"
+        ],
+        "instructionSet": "riscv64"
+    },
+    {
+        "id": "sparcleong1220-1",
+        "name": "SPARC LEON gcc 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcleong1230",
+        "name": "SPARC LEON gcc 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcleong1240",
+        "name": "SPARC LEON gcc 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcleong1310",
+        "name": "SPARC LEON gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcleong1320",
+        "name": "SPARC LEON gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcleong1330",
+        "name": "SPARC LEON gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcleong1220",
+        "name": "SPARC LEON gcc 13.x (incorrectly named 12.2.0 in the past)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcleong1410",
+        "name": "SPARC LEON gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcleong1420",
+        "name": "SPARC LEON gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcg1220",
+        "name": "SPARC gcc 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcg1230",
+        "name": "SPARC gcc 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcg1240",
+        "name": "SPARC gcc 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcg1310",
+        "name": "SPARC gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcg1320",
+        "name": "SPARC gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcg1330",
+        "name": "SPARC gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcg1410",
+        "name": "SPARC gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparcg1420",
+        "name": "SPARC gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparc64g1220",
+        "name": "SPARC64 gcc 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparc64g1230",
+        "name": "SPARC64 gcc 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparc64g1240",
+        "name": "SPARC64 gcc 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparc64g1310",
+        "name": "SPARC64 gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparc64g1320",
+        "name": "SPARC64 gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparc64g1330",
+        "name": "SPARC64 gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparc64g1410",
+        "name": "SPARC64 gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "id": "sparc64g1420",
+        "name": "SPARC64 gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "sparc"
+    },
+    {
+        "name_prefix": "TI C6x gcc",
+        "lang": "c++",
+        "semvers": [
+            "12.2.0",
+            "12.3.0",
+            "12.4.0",
+            "13.1.0",
+            "13.2.0",
+            "13.3.0",
+            "14.1.0",
+            "14.2.0"
+        ],
+        "instructionSet": "c6x"
+    },
+    {
+        "id": "cl4302161",
+        "name": "TI CL430 21.6.1",
+        "lang": "c++",
+        "compilerType": "cl430",
+        "semver": "21.6.1",
+        "instructionSet": "msp430"
+    },
+    {
+        "name_prefix": "VAX gcc NetBSDELF",
+        "lang": "c++",
+        "semvers": [
+            "10.4.0",
+            "10.5.0"
+        ],
+        "instructionSet": "vax"
+    },
+    {
+        "id": "wasm32clang",
+        "name": "WebAssembly clang (trunk)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "",
+        "instructionSet": "wasm32"
+    },
+    {
+        "name_prefix": "Xtensa",
+        "lang": "c++",
+        "semvers": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "instructionSet": "xtensa"
+    },
+    {
+        "name_prefix": "arm64 msvc",
+        "lang": "c++",
+        "semvers": [
+            "14.20.27525.0",
+            "14.21.27702.2",
+            "14.22.27905.0",
+            "14.23.28105.4",
+            "14.24.28325.0",
+            "14.25.28614.0",
+            "14.27.29120.0",
+            "14.28.29335.0",
+            "14.28.29921.0",
+            "14.29.30040.0",
+            "14.29.30153.0",
+            "14.30.30715.0",
+            "14.31.31107.0",
+            "14.32.31342.0",
+            "14.33.31630.0",
+            "14.34.31948.0",
+            "14.35.32217.1",
+            "14.36.32544.0",
+            "14.37.32826.1",
+            "14.38.33133.0",
+            "14.39.33523.0",
+            "14.40.33811.0",
+            "14.41.33923.0-Pre"
+        ],
+        "instructionSet": "aarch64"
+    },
+    {
+        "name_prefix": "armv7-a clang",
+        "lang": "c++",
+        "semvers": [
+            "(trunk)",
+            "10.0.0",
+            "10.0.1",
+            "11.0.0",
+            "11.0.1",
+            "12.0.0",
+            "12.0.1",
+            "13.0.0",
+            "13.0.1",
+            "14.0.0",
+            "15.0.0",
+            "16.0.0",
+            "17.0.1",
+            "18.1.0",
+            "19.1.0",
+            "9.0.0",
+            "9.0.1"
+        ],
+        "instructionSet": "arm32"
+    },
+    {
+        "name_prefix": "armv8-a clang",
+        "lang": "c++",
+        "semvers": [
+            "(all architectural features, trunk)",
+            "(trunk)",
+            "10.0.0",
+            "10.0.1",
+            "11.0.0",
+            "11.0.1",
+            "12.0.0",
+            "13.0.0",
+            "14.0.0",
+            "15.0.0",
+            "16.0.0",
+            "17.0.1",
+            "18.1.0",
+            "19.1.0",
+            "20.1.0",
+            "9.0.0",
+            "9.0.1"
+        ],
+        "instructionSet": "aarch64"
+    },
+    {
+        "id": "clang-cl1810",
+        "name": "clang-cl 18.1.0",
+        "lang": "c++",
+        "compilerType": "clang-cl",
+        "semver": "18.1.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "name_prefix": "ellcc",
+        "lang": "c++",
+        "semvers": [
+            "0.1.33",
+            "0.1.34",
+            "2017-07-16"
+        ],
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "hexagonclang1605",
+        "name": "hexagon-clang 16.0.5",
+        "lang": "c++",
+        "compilerType": "clang-hexagon",
+        "semver": "16.0.5",
+        "instructionSet": "amd64"
+    },
+    {
+        "name_prefix": "llvm-mos",
+        "lang": "c++",
+        "semvers": [
+            "atari2600-3e",
+            "atari2600-4k",
+            "atari2600-common",
+            "atari5200-supercart",
+            "atari8-cart-megacart",
+            "atari8-cart-std",
+            "atari8-cart-xegs",
+            "atari8-common",
+            "atari8-dos",
+            "c128",
+            "c64",
+            "commodore",
+            "cpm65",
+            "cx16",
+            "dodo",
+            "eater",
+            "mega65",
+            "nes",
+            "nes-action53",
+            "nes-cnrom",
+            "nes-gtrom",
+            "nes-mmc1",
+            "nes-mmc3",
+            "nes-nrom",
+            "nes-unrom",
+            "nes-unrom-512",
+            "osi-c1p",
+            "pce",
+            "pce-cd",
+            "pce-common",
+            "pet",
+            "rp6502",
+            "rpc8e",
+            "supervision",
+            "vic20"
+        ],
+        "instructionSet": "6502"
+    },
+    {
+        "id": "mips-clang1300",
+        "name": "mips clang 13.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips-clang1400",
+        "name": "mips clang 14.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips-clang1500",
+        "name": "mips clang 15.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "15.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips-clang1600",
+        "name": "mips clang 16.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "16.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips-clang1701",
+        "name": "mips clang 17.0.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "17.0.1",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips-clang1810",
+        "name": "mips clang 18.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "18.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips-clang1910",
+        "name": "mips clang 19.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "19.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips-clang2010",
+        "name": "mips clang 20.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "20.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips1120",
+        "name": "mips gcc 11.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsg1210",
+        "name": "mips gcc 12.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsg1220",
+        "name": "mips gcc 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsg1230",
+        "name": "mips gcc 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsg1240",
+        "name": "mips gcc 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsg1310",
+        "name": "mips gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsg1320",
+        "name": "mips gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsg1330",
+        "name": "mips gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsg1410",
+        "name": "mips gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsg1420",
+        "name": "mips gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsg494",
+        "name": "mips gcc 4.9.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.9.4",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips5",
+        "name": "mips gcc 5.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.4",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsg550",
+        "name": "mips gcc 5.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.5.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips930",
+        "name": "mips gcc 9.3.0 (codescape)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.3.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsg950",
+        "name": "mips gcc 9.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.5.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64elg1210",
+        "name": "mips64 (el) gcc 12.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64elg1220",
+        "name": "mips64 (el) gcc 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64elg1230",
+        "name": "mips64 (el) gcc 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64elg1240",
+        "name": "mips64 (el) gcc 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64elg1310",
+        "name": "mips64 (el) gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64elg1320",
+        "name": "mips64 (el) gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64elg1330",
+        "name": "mips64 (el) gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64elg1410",
+        "name": "mips64 (el) gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64elg1420",
+        "name": "mips64 (el) gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64elg494",
+        "name": "mips64 (el) gcc 4.9.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.9.4",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips564el",
+        "name": "mips64 (el) gcc 5.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.4.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64elg550",
+        "name": "mips64 (el) gcc 5.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.5.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64elg950",
+        "name": "mips64 (el) gcc 9.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.5.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64-clang1300",
+        "name": "mips64 clang 13.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64-clang1400",
+        "name": "mips64 clang 14.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64-clang1500",
+        "name": "mips64 clang 15.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "15.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64-clang1600",
+        "name": "mips64 clang 16.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "16.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64-clang1701",
+        "name": "mips64 clang 17.0.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "17.0.1",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64-clang1810",
+        "name": "mips64 clang 18.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "18.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64-clang1910",
+        "name": "mips64 clang 19.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "19.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64-clang2010",
+        "name": "mips64 clang 20.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "20.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips112064",
+        "name": "mips64 gcc 11.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64g1210",
+        "name": "mips64 gcc 12.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64g1220",
+        "name": "mips64 gcc 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64g1230",
+        "name": "mips64 gcc 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64g1240",
+        "name": "mips64 gcc 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64g1310",
+        "name": "mips64 gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64g1320",
+        "name": "mips64 gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64g1330",
+        "name": "mips64 gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64g1410",
+        "name": "mips64 gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64g1420",
+        "name": "mips64 gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64g494",
+        "name": "mips64 gcc 4.9.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.9.4",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips564",
+        "name": "mips64 gcc 5.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.4.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64g550",
+        "name": "mips64 gcc 5.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.5.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64g950",
+        "name": "mips64 gcc 9.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.5.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64el-clang1300",
+        "name": "mips64el clang 13.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64el-clang1400",
+        "name": "mips64el clang 14.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64el-clang1500",
+        "name": "mips64el clang 15.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "15.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64el-clang1600",
+        "name": "mips64el clang 16.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "16.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64el-clang1701",
+        "name": "mips64el clang 17.0.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "17.0.1",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64el-clang1810",
+        "name": "mips64el clang 18.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "18.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64el-clang1910",
+        "name": "mips64el clang 19.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "19.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips64el-clang2010",
+        "name": "mips64el clang 20.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "20.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsel-clang1300",
+        "name": "mipsel clang 13.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsel-clang1400",
+        "name": "mipsel clang 14.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsel-clang1500",
+        "name": "mipsel clang 15.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "15.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsel-clang1600",
+        "name": "mipsel clang 16.0.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "16.0.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsel-clang1701",
+        "name": "mipsel clang 17.0.1",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "17.0.1",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsel-clang1810",
+        "name": "mipsel clang 18.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "18.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsel-clang1910",
+        "name": "mipsel clang 19.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "19.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipsel-clang2010",
+        "name": "mipsel clang 20.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "20.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipselg1210",
+        "name": "mipsel gcc 12.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipselg1220",
+        "name": "mipsel gcc 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipselg1230",
+        "name": "mipsel gcc 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipselg1240",
+        "name": "mipsel gcc 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipselg1310",
+        "name": "mipsel gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipselg1320",
+        "name": "mipsel gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipselg1330",
+        "name": "mipsel gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipselg1410",
+        "name": "mipsel gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipselg1420",
+        "name": "mipsel gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipselg494",
+        "name": "mipsel gcc 4.9.4",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.9.4",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mips5el",
+        "name": "mipsel gcc 5.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.4.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipselg550",
+        "name": "mipsel gcc 5.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "5.5.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "mipselg950",
+        "name": "mipsel gcc 9.5.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "9.5.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "nanomips630",
+        "name": "nanoMIPS gcc 6.3.0 (mtk)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "6.3.0",
+        "instructionSet": "mips"
+    },
+    {
+        "id": "ppcg1120",
+        "name": "power gcc 11.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.2.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppcg1210",
+        "name": "power gcc 12.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.1.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppcg1220",
+        "name": "power gcc 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppcg1230",
+        "name": "power gcc 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppcg1240",
+        "name": "power gcc 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppcg1310",
+        "name": "power gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppcg1320",
+        "name": "power gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppcg1330",
+        "name": "power gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppcg1410",
+        "name": "power gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppcg1420",
+        "name": "power gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppcg48",
+        "name": "power gcc 4.8.5",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "4.8.5",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64g8",
+        "name": "power64 AT12.0 (gcc8)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(snapshot)",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64g9",
+        "name": "power64 AT13.0 (gcc9)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(snapshot)",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64g1120",
+        "name": "power64 gcc 11.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.2.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64g1210",
+        "name": "power64 gcc 12.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.1.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64g1220",
+        "name": "power64 gcc 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64g1230",
+        "name": "power64 gcc 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64g1240",
+        "name": "power64 gcc 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64g1310",
+        "name": "power64 gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64g1320",
+        "name": "power64 gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64g1330",
+        "name": "power64 gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64g1410",
+        "name": "power64 gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64g1420",
+        "name": "power64 gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64gtrunk",
+        "name": "power64 gcc trunk",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "trunk",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg8",
+        "name": "power64le AT12.0 (gcc8)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(snapshot)",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg9",
+        "name": "power64le AT13.0 (gcc9)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(snapshot)",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leclang",
+        "name": "power64le clang (trunk)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(snapshot)",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg1120",
+        "name": "power64le gcc 11.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "11.2.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg1210",
+        "name": "power64le gcc 12.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.1.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg1220",
+        "name": "power64le gcc 12.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.2.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg1230",
+        "name": "power64le gcc 12.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.3.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg1240",
+        "name": "power64le gcc 12.4.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "12.4.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg1310",
+        "name": "power64le gcc 13.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.1.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg1320",
+        "name": "power64le gcc 13.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.2.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg1330",
+        "name": "power64le gcc 13.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "13.3.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg1410",
+        "name": "power64le gcc 14.1.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.1.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg1420",
+        "name": "power64le gcc 14.2.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "14.2.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64leg630",
+        "name": "power64le gcc 6.3.0",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "6.3.0",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64legtrunk",
+        "name": "power64le gcc trunk",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "trunk",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "ppc64clang",
+        "name": "powerpc64 clang (trunk)",
+        "lang": "c++",
+        "compilerType": "",
+        "semver": "(snapshot)",
+        "instructionSet": "powerpc"
+    },
+    {
+        "id": "qnx800",
+        "name": "qnx 8.0.0",
+        "lang": "c++",
+        "compilerType": "qnx",
+        "semver": "8.0.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "name_prefix": "s390x gcc",
+        "lang": "c++",
+        "semvers": [
+            "11.2.0",
+            "12.1.0",
+            "12.2.0",
+            "12.3.0",
+            "12.4.0",
+            "13.1.0",
+            "13.2.0",
+            "13.3.0",
+            "14.1.0",
+            "14.2.0"
+        ],
+        "instructionSet": "s390x"
+    },
+    {
+        "name_prefix": "sh gcc",
+        "lang": "c++",
+        "semvers": [
+            "12.2.0",
+            "12.3.0",
+            "12.4.0",
+            "13.1.0",
+            "13.2.0",
+            "13.3.0",
+            "14.1.0",
+            "14.2.0",
+            "4.9.4",
+            "9.5.0"
+        ],
+        "instructionSet": "sh"
+    },
+    {
+        "id": "cl19_2015_u3_64",
+        "name": "x64 msvc v19.0 (WINE)",
+        "lang": "c++",
+        "compilerType": "wine-vc",
+        "semver": "19.00.24210",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "cl19_64",
+        "name": "x64 msvc v19.10 (WINE)",
+        "lang": "c++",
+        "compilerType": "wine-vc",
+        "semver": "19.10.25017",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "cl_new_64",
+        "name": "x64 msvc v19.14 (WINE)",
+        "lang": "c++",
+        "compilerType": "wine-vc",
+        "semver": "19.14.26423",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "cl19_2015_u3_32",
+        "name": "x86 msvc v19.0 (WINE)",
+        "lang": "c++",
+        "compilerType": "wine-vc",
+        "semver": "19.00.24210",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "cl19_32",
+        "name": "x86 msvc v19.10 (WINE)",
+        "lang": "c++",
+        "compilerType": "wine-vc",
+        "semver": "19.10.25017",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "cl_new_32",
+        "name": "x86 msvc v19.14 (WINE)",
+        "lang": "c++",
+        "compilerType": "wine-vc",
+        "semver": "19.14.26423",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_20_VS16_0_x64",
+        "name": "x64 msvc v19.20 VS16.0",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.20.27525.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_21_VS16_1_x64",
+        "name": "x64 msvc v19.21 VS16.1",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.21.27702.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_22_VS16_2_x64",
+        "name": "x64 msvc v19.22 VS16.2",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.22.27905.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_23_VS16_3_x64",
+        "name": "x64 msvc v19.23 VS16.3",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.23.28105.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_24_VS16_4_x64",
+        "name": "x64 msvc v19.24 VS16.4",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.24.28325.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_25_VS16_5_x64",
+        "name": "x64 msvc v19.25 VS16.5",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.25.28614.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_27_VS16_7_x64",
+        "name": "x64 msvc v19.27 VS16.7",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.27.29120.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_28_VS16_8_x64",
+        "name": "x64 msvc v19.28 VS16.8",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.28.29335.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_28_VS16_9_x64",
+        "name": "x64 msvc v19.28 VS16.9",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.28.29921.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_29_VS16_10_x64",
+        "name": "x64 msvc v19.29 VS16.10",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.29.30040.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_29_VS16_11_x64",
+        "name": "x64 msvc v19.29 VS16.11",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.29.30153.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_30_VS17_0_x64",
+        "name": "x64 msvc v19.30 VS17.0",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.30.30715.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_31_VS17_1_x64",
+        "name": "x64 msvc v19.31 VS17.1",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.31.31107.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_32_VS17_2_x64",
+        "name": "x64 msvc v19.32 VS17.2",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.32.31342.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_33_VS17_3_x64",
+        "name": "x64 msvc v19.33 VS17.3",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.33.31630.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_34_VS17_4_x64",
+        "name": "x64 msvc v19.34 VS17.4",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.34.31948.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_35_VS17_5_x64",
+        "name": "x64 msvc v19.35 VS17.5",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.35.32217.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_36_VS17_6_x64",
+        "name": "x64 msvc v19.36 VS17.6",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.36.32544.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_37_VS17_7_x64",
+        "name": "x64 msvc v19.37 VS17.7",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.37.32826.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_38_VS17_8_x64",
+        "name": "x64 msvc v19.38 VS17.8",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.38.33133.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_39_VS17_9_x64",
+        "name": "x64 msvc v19.39 VS17.9",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.39.33523.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_40_VS17_10_x64",
+        "name": "x64 msvc v19.40 VS17.10",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.40.33811.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_latest_x64",
+        "name": "x64 msvc v19.latest",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.41.33923.0-Pre",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_20_VS16_0_x86",
+        "name": "x86 msvc v19.20 VS16.0",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.20.27525.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_21_VS16_1_x86",
+        "name": "x86 msvc v19.21 VS16.1",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.21.27702.2",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_22_VS16_2_x86",
+        "name": "x86 msvc v19.22 VS16.2",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.22.27905.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_23_VS16_3_x86",
+        "name": "x86 msvc v19.23 VS16.3",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.23.28105.4",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_24_VS16_4_x86",
+        "name": "x86 msvc v19.24 VS16.4",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.24.28325.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_25_VS16_5_x86",
+        "name": "x86 msvc v19.25 VS16.5",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.25.28614.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_27_VS16_7_x86",
+        "name": "x86 msvc v19.27 VS16.7",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.27.29120.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_28_VS16_8_x86",
+        "name": "x86 msvc v19.28 VS16.8",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.28.29335.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_28_VS16_9_x86",
+        "name": "x86 msvc v19.28 VS16.9",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.28.29921.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_29_VS16_10_x86",
+        "name": "x86 msvc v19.29 VS16.10",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.29.30040.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_29_VS16_11_x86",
+        "name": "x86 msvc v19.29 VS16.11",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.29.30153.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_30_VS17_0_x86",
+        "name": "x86 msvc v19.30 VS17.0",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.30.30715.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_31_VS17_1_x86",
+        "name": "x86 msvc v19.31 VS17.1",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.31.31107.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_32_VS17_2_x86",
+        "name": "x86 msvc v19.32 VS17.2",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.32.31342.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_33_VS17_3_x86",
+        "name": "x86 msvc v19.33 VS17.3",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.33.31630.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_34_VS17_4_x86",
+        "name": "x86 msvc v19.34 VS17.4",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.34.31948.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_35_VS17_5_x86",
+        "name": "x86 msvc v19.35 VS17.5",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.35.32217.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_36_VS17_6_x86",
+        "name": "x86 msvc v19.36 VS17.6",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.36.32544.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_37_VS17_7_x86",
+        "name": "x86 msvc v19.37 VS17.7",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.37.32826.1",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_38_VS17_8_x86",
+        "name": "x86 msvc v19.38 VS17.8",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.38.33133.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_39_VS17_9_x86",
+        "name": "x86 msvc v19.39 VS17.9",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.39.33523.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_40_VS17_10_x86",
+        "name": "x86 msvc v19.40 VS17.10",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.40.33811.0",
+        "instructionSet": "amd64"
+    },
+    {
+        "id": "vcpp_v19_latest_x86",
+        "name": "x86 msvc v19.latest",
+        "lang": "c++",
+        "compilerType": "win32-vc",
+        "semver": "14.41.33923.0-Pre",
+        "instructionSet": "amd64"
+    },
+    {
+        "name_prefix": "x86-64 clang",
+        "lang": "c++",
+        "semvers": [
+            "(Chris Bazley N3089)",
+            "(EricWF contracts)",
+            "(amd-staging)",
+            "(assertions trunk)",
+            "(clangir)",
+            "(dascandy contracts)",
+            "(experimental -Wlifetime)",
+            "(experimental P1061)",
+            "(experimental P1144)",
+            "(experimental P1221)",
+            "(experimental P2996)",
+            "(experimental P2998)",
+            "(experimental P3068)",
+            "(experimental P3309)",
+            "(experimental P3367)",
+            "(experimental P3372)",
+            "(experimental metaprogramming - P2632)",
+            "(old concepts branch)",
+            "(p1974)",
+            "(pattern matching - P2688)",
+            "(reflection)",
+            "(resugar)",
+            "(std::embed)",
+            "(string interpolation - P3412)",
+            "(thephd.dev)",
+            "(trunk)",
+            "(variadic friends - P2893)",
+            "(widberg)",
+            "10.0.0",
+            "10.0.0 (assertions)",
+            "10.0.1",
+            "11.0.0",
+            "11.0.0 (assertions)",
+            "11.0.1",
+            "12.0.0",
+            "12.0.0 (assertions)",
+            "12.0.1",
+            "13.0.0",
+            "13.0.0 (assertions)",
+            "13.0.1",
+            "14.0.0",
+            "14.0.0 (assertions)",
+            "15.0.0",
+            "15.0.0 (assertions)",
+            "16.0.0",
+            "16.0.0 (assertions)",
+            "17.0.1",
+            "17.0.1 (assertions)",
+            "18.1.0",
+            "18.1.0 (assertions)",
+            "19.1.0",
+            "19.1.0 (assertions)",
+            "2.6.0 (assertions)",
+            "2.7.0 (assertions)",
+            "2.8.0 (assertions)",
+            "2.9.0 (assertions)",
+            "20.1.0",
+            "20.1.0 (assertions)",
+            "3.0.0",
+            "3.0.0 (assertions)",
+            "3.1",
+            "3.1 (assertions)",
+            "3.2",
+            "3.2 (assertions)",
+            "3.3",
+            "3.3 (assertions)",
+            "3.4 (assertions)",
+            "3.4.1",
+            "3.5",
+            "3.5 (assertions)",
+            "3.5.1",
+            "3.5.2",
+            "3.6",
+            "3.6 (assertions)",
+            "3.7",
+            "3.7 (assertions)",
+            "3.7.1",
+            "3.8",
+            "3.8 (assertions)",
+            "3.8.1",
+            "3.9.0",
+            "3.9.0 (assertions)",
+            "3.9.1",
+            "4.0.0",
+            "4.0.0 (assertions)",
+            "4.0.1",
+            "5.0.0",
+            "5.0.0 (assertions)",
+            "5.0.1",
+            "5.0.2",
+            "6.0.0",
+            "6.0.0 (assertions)",
+            "6.0.1",
+            "7.0.0",
+            "7.0.0 (assertions)",
+            "7.0.1",
+            "7.1.0",
+            "8.0.0",
+            "8.0.0 (assertions)",
+            "8.0.1",
+            "9.0.0",
+            "9.0.0 (assertions)",
+            "9.0.1",
+            "4.5.2",
+            "5.0.2",
+            "5.1.3",
+            "5.2.3",
+            "rocm-5.3.3",
+            "rocm-5.7.0",
+            "rocm-6.0.2",
+            "rocm-6.1.2"
+        ],
+        "instructionSet": "amd64"
+    },
+    {
+        "name_prefix": "x86-64 icx",
+        "lang": "c++",
+        "semvers": [
+            "2021.1.2",
+            "2021.2.0",
+            "2021.3.0",
+            "2021.4.0",
+            "2022.0.0",
+            "2022.1.0",
+            "2022.2.0",
+            "2022.2.1",
+            "2023.0.0",
+            "2023.1.0",
+            "2023.2.1",
+            "2024.0.0",
+            "2024.1.0",
+            "2024.2.0",
+            "2024.2.1",
+            "2025.0.0",
+            "2025.0.1",
+            "2025.0.3",
+            "2025.0.4",
+            "2025.0.4"
+        ],
+        "instructionSet": "amd64"
+    },
+    {
+        "name_prefix": "zig c++",
+        "lang": "c++",
+        "semvers": [
+            "0.10.0",
+            "0.11.0",
+            "0.12.0",
+            "0.12.1",
+            "0.13.0",
+            "0.14.0",
+            "0.6.0",
+            "0.7.0",
+            "0.7.1",
+            "0.8.0",
+            "0.9.0",
+            "trunk"
+        ],
+        "instructionSet": "amd64"
+    }
+]
