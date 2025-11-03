@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that connects LLMs to the Compiler Explorer API, enabling them to compile code, explore compiler features, and analyze optimizations across different compilers and languages.
 
+<a href="https://glama.ai/mcp/servers/@torshepherd/compiler-explorer-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@torshepherd/compiler-explorer-mcp/badge" alt="Compiler Explorer MCP server" />
+</a>
+
 ## Example Questions
 
 Here are some interesting questions you can ask your LLM using this MCP:
